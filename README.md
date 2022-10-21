@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://emoji.gg/emoji/4747-kekwcomputer"><img src="https://cdn3.emoji.gg/emojis/4747-kekwcomputer.png" width="90px" height="90px" alt="kekwcomputer"></a>
+<img src="https://user-images.githubusercontent.com/116320626/197281387-bf3f65dd-3680-48a3-933a-dba4f9c1dbfc.png" width="90px" height="90px" alt="kekwcomputer">
 
-# 🖥 Algoritmos e Lógica de Programação
+# Algoritmos e Lógica de Programação
 
 • Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Clayton Ferraz, utilizando o Visual Studio e a linguagem CSharp como ferramentas de aprendizado.
 </div>
