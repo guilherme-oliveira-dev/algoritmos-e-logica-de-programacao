@@ -9,6 +9,10 @@
 🔗 • https://getemoji.com
 -->
 
+<div align="left">
+<img src="https://img.shields.io/github/license/guilherme-oliveira-dev/algoritmos-e-logica-de-programacao" alt="licence-badge">
+</div>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/116320626/197281387-bf3f65dd-3680-48a3-933a-dba4f9c1dbfc.png" width="90px" height="90px" alt="kekwcomputer">
 
