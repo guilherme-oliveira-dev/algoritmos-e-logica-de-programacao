@@ -1,4 +1,8 @@
 <div align="center">
+<a href="https://emoji.gg/emoji/4747-kekwcomputer"><img src="https://cdn3.emoji.gg/emojis/4747-kekwcomputer.png" width="90px" height="90px" alt="kekwcomputer"></a>
+
+# 🖥 Algoritmos e Lógica de Programação
+
 • Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Clayton Ferraz, utilizando o Visual Studio e a linguagem CSharp como ferramentas de aprendizado.
 </div>
 
@@ -11,7 +15,7 @@
 &#8196;
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=4&section=header&%20render">
 </div>
 
 ###
@@ -20,7 +24,9 @@
 
 ## 👨‍🏫 Professor:
 
-<img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png">
+<img align="left" height="135px" width="135px" alt="clayton-ferraz-pic" src="https://user-images.githubusercontent.com/116320626/197277869-fcd6149c-9a1c-464b-a1f4-89a0426838df.png">
+
+
 
 **Clayton Ferraz - Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS do IFRO Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
@@ -30,10 +36,10 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 ###
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=4&section=header&%20render">
 </div>
 
-## 📚 Conceitos Aprendidos:
+## 💾 Conceitos Aprendidos:
 ### 1. Comentários, declaração de variáveis e comandos do console
 
 Nesta aula foram aprendidos:
@@ -80,7 +86,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=4&section=header&%20render">
 </div>
 
 ### 2. Conceitos de "If/Else"
@@ -114,7 +120,7 @@ Nesta aula foram aprendidos:
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=cf1300&height=4&section=header&%20render">
 </div>
 
 ### 3. Conceitos de "Switch/Case"
