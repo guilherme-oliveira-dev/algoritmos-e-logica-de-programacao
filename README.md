@@ -1,3 +1,14 @@
+<!--
+❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
+🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://profilepicturemaker.com
+🔗 • https://devicon.dev
+🔗 • https://shields.io
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
+-->
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/116320626/197281387-bf3f65dd-3680-48a3-933a-dba4f9c1dbfc.png" width="90px" height="90px" alt="kekwcomputer">
 
