@@ -11,18 +11,16 @@
 &#8196;
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
+</div>
 
 ###
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medir%20o%20progresso%20da%20programação%20por%20linhas%20de%20código%20é%20como%20medir%20o%20progresso%20da%20construção%20de%20aeronaves%20em%20termos%20de%20peso.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
-</div>
 
 <div align="left">
 
 ## 👨‍🏫 Professor:
 
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ClaytonFerraz-pic.png"><img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png"></a>
+<img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png">
 
 **Clayton Ferraz - Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS do IFRO Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
@@ -32,7 +30,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 ###
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
 </div>
 
 ## 📚 Conceitos Aprendidos:
@@ -82,7 +80,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
 </div>
 
 ### 2. Conceitos de "If/Else"
@@ -116,7 +114,7 @@ Nesta aula foram aprendidos:
 ```
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=a21a0c&height=4&section=header&%20render">
 </div>
 
 ### 3. Conceitos de "Switch/Case"
