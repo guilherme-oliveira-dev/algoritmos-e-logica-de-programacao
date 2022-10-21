@@ -24,9 +24,7 @@
 
 ## 👨‍🏫 Professor:
 
-<img align="left" height="135px" width="135px" alt="clayton-ferraz-pic" src="https://user-images.githubusercontent.com/116320626/197277869-fcd6149c-9a1c-464b-a1f4-89a0426838df.png">
-
-
+<img align="left" height="135px" width="135px" alt="clayton-ferraz-pic" src="https://user-images.githubusercontent.com/116320626/197282146-4c657a25-7e7c-4ed8-80cc-84aae1c7b637.png">
 
 **Clayton Ferraz - Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS do IFRO Campus Ji-Paraná** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
