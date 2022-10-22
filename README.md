@@ -1,5 +1,6 @@
 <!--
 ❗ ➤ References used in this Repository:
+🔗 • https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
 🔗 • https://profilepicturemaker.com
